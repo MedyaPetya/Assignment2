@@ -1,3 +1,4 @@
+refactor: clean up MyQueue formatting
 public class MyStack<T extends Comparable<T>> {
 
     private MyArrayList<T> list = new MyArrayList<>();
