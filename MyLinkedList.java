@@ -1,4 +1,5 @@
 import java.util.Iterator;
+refactor: clean up MyLinkedList formatting
 
 public class MyLinkedList<T extends Comparable<T>> implements MyList<T> {
 
