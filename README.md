@@ -54,3 +54,6 @@ java Main
 - `MyStack` uses `MyArrayList` because index-based access and `addLast`/`removeLast` are O(1).
 - `MyQueue` uses `MyLinkedList` because `addLast` and `removeFirst` are both O(1), avoiding the O(n) shift cost of an array.
 - `MyMinHeap` uses `MyArrayList` because heap index arithmetic (`parent`, `leftChild`, `rightChild`) requires O(1) random access.
+
+## Author
+Medet Mussali
