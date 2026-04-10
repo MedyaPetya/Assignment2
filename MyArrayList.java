@@ -1,4 +1,5 @@
 import java.util.Iterator;
+refactor: clean up MyArrayList formatting
 
 public class MyArrayList<T extends Comparable<T>> implements MyList<T> {
 
